@@ -239,3 +239,49 @@ Expected Result:
 Actual Result: To be filled after execution
 
 Status: In Process
+
+TC_013
+Summary: User account lockout after multiple failed login attempts
+
+Preconditions:
+
+The user has an account (valid username and password).
+The user is on the homepage https://www.demoblaze.com/index.html
+Test Steps:
+
+Click "Log In".
+Enter an existing username (e.g., testuser123).
+Enter an incorrect password (e.g., 12345).
+Click the "Log In" button.
+Repeat steps 2-4 five times.
+Try logging in again with the correct credentials.
+Expected Result:
+🔹 If the system has security measures, the user receives a warning about temporary account lockout.
+🔹 If there is no lockout mechanism, the user should be able to log in after entering the correct credentials.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_014
+Summary: Checking if login session persists after page refresh
+
+Preconditions:
+
+The user has an account (valid username and password).
+The user is on the homepage https://www.demoblaze.com/index.html
+Test Steps:
+
+Click "Log In".
+Enter an existing username (e.g., testuser123).
+Enter the correct password.
+Click the "Log In" button.
+Wait for successful login.
+Refresh the page (press F5 or reload the browser tab).
+Expected Result:
+🔹 If the site supports session persistence, the user remains logged in.
+🔹 If session persistence is not implemented, the user must log in again.
+
+Actual Result: To be filled after execution
+
+Status: In Process
