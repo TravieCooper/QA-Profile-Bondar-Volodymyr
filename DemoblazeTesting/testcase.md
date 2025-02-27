@@ -337,3 +337,58 @@ Expected Result: The site correctly filters products from the "Monitors" categor
 Actual Result: To be filled after execution
 
 Status: In Process
+
+TC_018
+Summary: Navigation check for "Home"
+Preconditions: The user must be on the "Laptops" category page.
+Test Steps:
+1.	Click on the "Home" button.
+2.	Verify that the homepage is displayed.
+Expected Result: The website correctly navigates back to the homepage.
+Actual Result: To be filled after execution
+Status: In Process
+TC_019
+Summary: Navigation check for "Contact"
+Preconditions: The user must be on the "Phones" category page.
+Test Steps:
+1.	Click on "Contact" in the top navigation menu.
+2.	Verify that the appropriate pop-up window appears.
+Expected Result: The "Contact" pop-up window opens.
+Actual Result: To be filled after execution
+Status: In Process
+TC_020
+Summary: Navigation check for "About us"
+Preconditions: The user must be on the "Phones" category page.
+Test Steps:
+1.	Click on "About us" in the top navigation menu.
+2.	Verify that the appropriate pop-up window appears.
+Expected Result: The "About us" pop-up window opens.
+Actual Result: To be filled after execution
+Status: In Process
+TC_021
+Summary: Navigation check for "Cart"
+Preconditions: The user must be on the homepage of  https://www.demoblaze.com/index.html..
+Test Steps:
+1.	Click on "Cart" in the top navigation menu.
+2.	Verify that the cart page is displayed.
+Expected Result: The cart page opens.
+Actual Result: To be filled after execution
+Status: In Process
+TC_022
+Summary: Navigation check for "Log in"
+Preconditions: The user must be on the homepage of  https://www.demoblaze.com/index.html..
+Test Steps:
+1.	Click on "Log in" in the top navigation menu.
+2.	Verify that the appropriate pop-up window appears.
+Expected Result: The "Log in" pop-up window opens.
+Actual Result: To be filled after execution
+Status: In Process
+TC_023
+Summary: Navigation check for "Sign up"
+Preconditions: The user must be on the homepage of  https://www.demoblaze.com/index.html..
+Test Steps:
+1.	Click on "Sign up" in the top navigation menu.
+2.	Verify that the appropriate pop-up window appears.
+Expected Result: The "Sign up" pop-up window opens.
+Actual Result: To be filled after execution
+Status: In Process
