@@ -347,6 +347,7 @@ Test Steps:
 Expected Result: The website correctly navigates back to the homepage.
 Actual Result: To be filled after execution
 Status: In Process
+
 TC_019
 Summary: Navigation check for "Contact"
 Preconditions: The user must be on the "Phones" category page.
@@ -356,6 +357,7 @@ Test Steps:
 Expected Result: The "Contact" pop-up window opens.
 Actual Result: To be filled after execution
 Status: In Process
+
 TC_020
 Summary: Navigation check for "About us"
 Preconditions: The user must be on the "Phones" category page.
@@ -365,6 +367,7 @@ Test Steps:
 Expected Result: The "About us" pop-up window opens.
 Actual Result: To be filled after execution
 Status: In Process
+
 TC_021
 Summary: Navigation check for "Cart"
 Preconditions: The user must be on the homepage of  https://www.demoblaze.com/index.html..
@@ -374,6 +377,7 @@ Test Steps:
 Expected Result: The cart page opens.
 Actual Result: To be filled after execution
 Status: In Process
+
 TC_022
 Summary: Navigation check for "Log in"
 Preconditions: The user must be on the homepage of  https://www.demoblaze.com/index.html..
@@ -383,6 +387,7 @@ Test Steps:
 Expected Result: The "Log in" pop-up window opens.
 Actual Result: To be filled after execution
 Status: In Process
+
 TC_023
 Summary: Navigation check for "Sign up"
 Preconditions: The user must be on the homepage of  https://www.demoblaze.com/index.html..
