@@ -433,3 +433,127 @@ Expected Result: The "Sign up" pop-up window opens.
 Actual Result: To be filled after execution
 
 Status: In Process
+
+TC_024
+
+Summary: Add one product from "Phones" category to cart
+
+Preconditions: The user must be on the homepage of the site https://www.demoblaze.com/index.html and navigate to the "Phones" category.
+
+Test Steps:
+
+Select the product "Samsung galaxy s6".
+
+Click on the "Add to cart" button.
+
+Confirm the pop-up message.
+
+Go to the cart.
+
+Expected Result: The selected product is successfully added to the cart and displayed in the cart list.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_025
+
+Summary: Add one product from "Laptops" category to cart
+
+Preconditions: The user must be on the homepage of the site https://www.demoblaze.com/index.html and navigate to the "Laptops" category.
+
+Test Steps:
+
+Select the product "Sony vaio i5".
+
+Click on the "Add to cart" button.
+
+Confirm the pop-up message.
+
+Go to the cart.
+
+Expected Result: The selected product is successfully added to the cart and displayed in the cart list.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_026
+
+Summary: Add one product from "Monitors" category to cart
+
+Preconditions: The user must be on the homepage of the site https://www.demoblaze.com/index.html and navigate to the "Monitors" category.
+
+Test Steps:
+
+Select the product "Apple monitor 24".
+
+Click on the "Add to cart" button.
+
+Confirm the pop-up message.
+
+Go to the cart.
+
+Expected Result: The selected product is successfully added to the cart and displayed in the cart list.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_027
+
+Summary: Add multiple products to the cart
+
+Preconditions: The user must be on the homepage of the site https://www.demoblaze.com/index.html.
+
+Test Steps:
+
+Add "Samsung galaxy s6" from "Phones" category.
+
+Add "Sony vaio i5" from "Laptops" category.
+
+Add "Apple monitor 24" from "Monitors" category.
+
+Go to the cart.
+
+Expected Result: All selected products are successfully added to the cart and displayed in the cart list.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_028
+
+Summary: Remove one product from the cart
+
+Preconditions: The user must have at least two products in the cart.
+
+Test Steps:
+
+Go to the cart.
+
+Remove the product "Samsung galaxy s6" from the cart.
+
+Expected Result: The selected product is removed from the cart, and the remaining products are still present.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_029
+
+Summary: Remove all products from the cart
+
+Preconditions: The user must have at least two products in the cart.
+
+Test Steps:
+
+Go to the cart.
+
+Remove all products from the cart one by one.
+
+Expected Result: The cart becomes empty, and no products are displayed.
+
+Actual Result: To be filled after execution
+
+Status: In Process
