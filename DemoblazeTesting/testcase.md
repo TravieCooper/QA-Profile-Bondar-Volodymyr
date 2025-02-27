@@ -290,8 +290,7 @@ TC_015
 
 Summary: Navigation check for the "Phones" category
 
-Preconditions: The user must be on the homepage of the Demoblaze site.
-
+Preconditions: The user is on the homepage https://www.demoblaze.com/index.html
 Test Steps:
 
 Click on the "Phones" category in the left menu.
@@ -308,8 +307,7 @@ TC_016
 
 Summary: Navigation check for the "Laptops" category
 
-Preconditions: The user must be on the homepage of the Demoblaze site.
-
+Preconditions: The user is on the homepage https://www.demoblaze.com/index.html
 Test Steps:
 
 Click on the "Laptops" category in the left menu.
@@ -326,7 +324,7 @@ TC_017
 
 Summary: Navigation check for the "Monitors" category
 
-Preconditions: The user must be on the homepage of the Demoblaze site.
+Preconditions: The user is on the homepage https://www.demoblaze.com/index.html
 
 Test Steps:
 
