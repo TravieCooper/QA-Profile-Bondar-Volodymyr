@@ -706,3 +706,116 @@ Expected Result: The system should either reject the input or show an error mess
 Actual Result: To be filled after execution
 
 Status: In Process
+
+TC_38
+
+Summary: Verify that all main interface elements (menu, buttons, images, text, links) are displayed correctly on the page without distortion.
+
+Preconditions: The user is on the homepage or any other page of the website.
+
+Test Steps:
+Verify that all main elements (menu, buttons, images, text, links) are displayed correctly.
+Verify that all buttons have the correct labels and are clickable.
+Expected Result: All interface elements are displayed correctly on the screen, without distortion or missing parts.
+Actual Result: To be filled after test execution
+Status: To be filled after test execution (Pass/Fail)
+
+TC_39: Verification of Website Responsiveness for Different Screen Sizes (ComputerSummary: Verify that the website displays correctly on a computer screen, and the interface is user-friendly.
+
+Preconditions: The user opens the website Demoblazer on a computer.
+
+Test Steps:
+Open the website Demoblazer on a computer.
+Verify that the interface adjusts correctly to the computer screen.
+Verify the availability of main interface elements: menu, buttons, links.
+Verify that all images, text, and tables display correctly.
+
+Expected Result: The website should display correctly on a computer screen, and the interface should be user-friendly.
+
+Actual Result: To be filled after test execution
+
+Status: To be filled after test execution (Pass/Fail)
+
+TC_40
+
+Summary: Verify that the website displays correctly on a tablet screen, and the menu and interface elements are accessible.
+
+Preconditions: The user opens the website Demoblazer on a tablet.
+
+Test Steps:
+Open the website Demoblazer on a tablet.
+Verify that the interface adjusts correctly to the tablet screen.
+Verify the availability of main interface elements: menu, buttons, links.
+Verify that all images, text, and tables display correctly.
+
+Expected Result: The website should display correctly on a tablet screen, and the interface should be user-friendly.
+
+Actual Result: To be filled after test execution
+
+Status: To be filled after test execution (Pass/Fail)
+
+TC_41
+
+Summary: Verify that the website displays correctly on a smartphone screen, and the menu and interface elements are accessible.
+
+Preconditions: The user opens the website Demoblazer on a smartphone.
+
+Test Steps:
+Open the website Demoblazer on a smartphone.
+Verify that the interface adjusts correctly to the phone screen.
+Verify the availability of main interface elements: menu, buttons, links.
+Verify that all images, text, and tables display correctly.
+
+Expected Result: The website should display correctly on a smartphone screen, and the menu and interface elements should be accessible.
+
+Actual Result: To be filled after test execution
+
+Status: To be filled after test execution (Pass/Fail)
+
+TC_42
+
+Summary: Verify that the website uses an appropriate color palette and that the contrast between text and background is sufficient for readability.
+
+Preconditions: The user is on any page of the website.
+
+Test Steps:
+Verify that the color palette is used correctly (without overly bright or poorly combined colors).
+Check the contrast between the text and the background to ensure good visibility for users with poor eyesight.
+
+Expected Result: The colors and contrast should be pleasant to the eyes and provide comfortable reading.
+
+Actual Result: To be filled after test execution
+
+Status: To be filled after test execution (Pass/Fail)
+
+TC_43
+
+Summary: Verify that the ordering process is easy to follow, and the fields are easy to fill out with clear instructions.
+
+Preconditions: The user has a product in the cart and is ready to place an order.
+
+Test Steps:
+Verify that there are no difficulties when filling in the fields on the order page.
+Verify that the instructions for entering data (such as address or payment information) are clear.
+
+Expected Result: The order placement process should be intuitive, clear, and fast.
+
+Actual Result: To be filled after test execution
+
+Status: To be filled after test execution (Pass/Fail)
+
+TC_44
+
+Summary: Verify that the visual elements (buttons, icons, textures) match the overall website design and that there is consistency in styles, fonts, and colors across all pages.
+
+Preconditions: The user is on any product page.
+
+Test Steps:
+Verify that the design elements (buttons, icons, textures) match the overall design of the website.
+Ensure consistency in styles, fonts, and colors across all pages.
+
+Expected Result: The website design should match the established layout and be consistent across all pages.
+
+Actual Result: To be filled after test execution
+
+Status: To be filled after test execution (Pass/Fail)
