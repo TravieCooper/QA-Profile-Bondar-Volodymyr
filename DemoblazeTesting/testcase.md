@@ -285,3 +285,57 @@ Expected Result:
 Actual Result: To be filled after execution
 
 Status: In Process
+
+TC_015
+
+Summary: Navigation check for the "Phones" category
+
+Preconditions: The user must be on the homepage of the Demoblaze site.
+
+Test Steps:
+
+Click on the "Phones" category in the left menu.
+
+Verify that only products from the "Phones" category are displayed on the page.
+
+Expected Result: The site correctly filters products from the "Phones" category.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_016
+
+Summary: Navigation check for the "Laptops" category
+
+Preconditions: The user must be on the homepage of the Demoblaze site.
+
+Test Steps:
+
+Click on the "Laptops" category in the left menu.
+
+Verify that only products from the "Laptops" category are displayed on the page.
+
+Expected Result: The site correctly filters products from the "Laptops" category.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_017
+
+Summary: Navigation check for the "Monitors" category
+
+Preconditions: The user must be on the homepage of the Demoblaze site.
+
+Test Steps:
+
+Click on the "Monitors" category in the left menu.
+
+Verify that only products from the "Monitors" category are displayed on the page.
+
+Expected Result: The site correctly filters products from the "Monitors" category.
+
+Actual Result: To be filled after execution
+
+Status: In Process
