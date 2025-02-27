@@ -557,3 +557,73 @@ Expected Result: The cart becomes empty, and no products are displayed.
 Actual Result: To be filled after execution
 
 Status: In Process
+
+TC_030
+
+Summary: Check clicking the Place Order button when the cart is empty
+
+Preconditions: The cart is empty.
+
+Test Steps:
+
+Go to the cart.
+Click the Place Order button.
+Expected Result: A message or pop-up should appear indicating that the cart is empty and the order cannot be placed.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_031
+
+Summary: Check if the products remain in the cart after page refresh
+
+Preconditions: There is at least one product in the cart.
+
+Test Steps:
+
+Go to the cart, where there is at least one product.
+Refresh the page.
+Check if the product(s) remain in the cart after the page refresh.
+Expected Result: Products should remain in the cart after refreshing the page.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_032
+
+Summary: Check if the products remain in the cart after logging out and logging back in
+
+Preconditions: There is at least one product in the cart. The user is logged in.
+
+Test Steps:
+
+Go to the cart, where there is at least one product.
+Log out (click Log out).
+Log back into the account.
+Check if the products are still in the cart after logging back in.
+Expected Result: Products should remain in the cart even after logging out and logging back in.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_033
+
+Summary: Check order placement
+
+Preconditions: There must be at least one product in the cart.
+
+Test Steps:
+
+Go to the cart.
+Click the Place order button.
+In the pop-up, fill in all the fields correctly: name, address, city, postal code, country, and phone number.
+Click the Purchase button.
+Expected Result: After clicking Purchase, a pop-up should appear confirming the successful order placement.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
