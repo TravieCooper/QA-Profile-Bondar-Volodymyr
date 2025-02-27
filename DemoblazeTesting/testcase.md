@@ -627,3 +627,74 @@ Actual Result: To be filled after execution
 
 Status: In Process
 
+TC_034
+
+Summary: Check Purchase button behavior when fields are empty
+
+Preconditions: The user must have at least one item in the cart and be on the order page.
+
+Test Steps:
+
+Go to the cart.
+Click the Place order button.
+In the pop-up, leave all fields empty.
+Click the Purchase button.
+Expected Result: The system should show an error or a message prompting the user to fill out all the fields correctly. The order should not be placed.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_035
+
+Summary: Check Purchase button behavior when incorrect data is entered
+
+Preconditions: The user must have at least one item in the cart and be on the order page.
+
+Test Steps:
+
+Go to the cart.
+Click the Place order button.
+In the pop-up, fill in the fields with incorrect data (e.g., invalid address, postal code, etc.).
+Click the Purchase button.
+Expected Result: The system should show an error message indicating that the data is incorrect. The order should not be placed.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_036
+
+Summary: Check Purchase button behavior when negative values are entered in the fields
+
+Preconditions: The user must have at least one item in the cart and be on the order page.
+
+Test Steps:
+
+Go to the cart.
+Click the Place order button.
+In the pop-up, enter negative values in one or more fields (e.g., negative postal code or phone number).
+Click the Purchase button.
+Expected Result: The system should show an error message indicating that negative values are not allowed. The order should not be placed.
+
+Actual Result: To be filled after execution
+
+Status: In Process
+
+TC_037
+
+Summary: Check Purchase button behavior when the fields exceed the maximum character limit (50+ characters)
+
+Preconditions: The user must have at least one item in the cart and be on the order page.
+
+Test Steps:
+
+Go to the cart.
+Click the Place order button.
+In the pop-up, enter more than 50 characters in one of the fields (e.g., name, address, or city).
+Click the Purchase button.
+Expected Result: The system should either reject the input or show an error message indicating the character limit has been exceeded. The order should not be placed.
+
+Actual Result: To be filled after execution
+
+Status: In Process
