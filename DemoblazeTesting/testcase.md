@@ -568,6 +568,7 @@ Test Steps:
 
 Go to the cart.
 Click the Place Order button.
+
 Expected Result: A message or pop-up should appear indicating that the cart is empty and the order cannot be placed.
 
 Actual Result: To be filled after execution
@@ -585,6 +586,7 @@ Test Steps:
 Go to the cart, where there is at least one product.
 Refresh the page.
 Check if the product(s) remain in the cart after the page refresh.
+
 Expected Result: Products should remain in the cart after refreshing the page.
 
 Actual Result: To be filled after execution
@@ -603,6 +605,7 @@ Go to the cart, where there is at least one product.
 Log out (click Log out).
 Log back into the account.
 Check if the products are still in the cart after logging back in.
+
 Expected Result: Products should remain in the cart even after logging out and logging back in.
 
 Actual Result: To be filled after execution
@@ -621,6 +624,7 @@ Go to the cart.
 Click the Place order button.
 In the pop-up, fill in all the fields correctly: name, address, city, postal code, country, and phone number.
 Click the Purchase button.
+
 Expected Result: After clicking Purchase, a pop-up should appear confirming the successful order placement.
 
 Actual Result: To be filled after execution
@@ -639,6 +643,7 @@ Go to the cart.
 Click the Place order button.
 In the pop-up, leave all fields empty.
 Click the Purchase button.
+
 Expected Result: The system should show an error or a message prompting the user to fill out all the fields correctly. The order should not be placed.
 
 Actual Result: To be filled after execution
@@ -657,6 +662,7 @@ Go to the cart.
 Click the Place order button.
 In the pop-up, fill in the fields with incorrect data (e.g., invalid address, postal code, etc.).
 Click the Purchase button.
+
 Expected Result: The system should show an error message indicating that the data is incorrect. The order should not be placed.
 
 Actual Result: To be filled after execution
@@ -675,6 +681,7 @@ Go to the cart.
 Click the Place order button.
 In the pop-up, enter negative values in one or more fields (e.g., negative postal code or phone number).
 Click the Purchase button.
+
 Expected Result: The system should show an error message indicating that negative values are not allowed. The order should not be placed.
 
 Actual Result: To be filled after execution
@@ -693,6 +700,7 @@ Go to the cart.
 Click the Place order button.
 In the pop-up, enter more than 50 characters in one of the fields (e.g., name, address, or city).
 Click the Purchase button.
+
 Expected Result: The system should either reject the input or show an error message indicating the character limit has been exceeded. The order should not be placed.
 
 Actual Result: To be filled after execution
