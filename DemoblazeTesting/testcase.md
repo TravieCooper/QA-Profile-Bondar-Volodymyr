@@ -819,3 +819,183 @@ Expected Result: The website design should match the established layout and be c
 Actual Result: To be filled after test execution
 
 Status: To be filled after test execution (Pass/Fail)
+
+TC_45
+
+Summary: Verify the Cart functionality without user authorization.
+
+Preconditions: User is not logged in.
+
+Steps:
+
+Go to the website.
+
+Without logging in, click on the Cart button in the top menu.
+
+Check if products can be added to the cart.
+
+Verify if the Place Order button is accessible.
+
+Expected Result:
+
+The Place Order button should be unavailable without authorization.
+
+Products can be added to the cart, but attempting to place an order should display the message "Please login first".
+
+Actual Result:
+
+Status: In Progress
+
+TC_46
+
+Summary: Verify URL access restriction for unauthorized users.
+
+Preconditions: User is logged in with a regular account (not admin).
+
+Steps:
+
+Log in as a regular user.
+
+Enter the URL https://www.demoblaze.com/admin.html or any non-menu URL in the browser address bar.
+
+Expected Result:
+
+The site should redirect to the homepage or display an "Access Denied" message.
+
+Actual Result:
+
+Status: In Progress
+
+TC_47
+
+Summary: Verify system protection against SQL Injection.
+
+Preconditions: User is on the Sign-up page.
+
+Steps:
+
+Go to the Sign-up page.
+
+Enter the following in the Username field: ' OR 1=1 --
+
+Enter any text in the Password field.
+
+Click Sign up.
+
+Expected Result:
+
+An error message or registration denial should appear.
+
+The system should not create an account.
+
+Actual Result:
+
+Status: In Progress
+
+TC_48
+
+Summary: Verify session expiration after inactivity.
+
+Preconditions: User is logged in.
+
+Steps:
+
+Log in to the site.
+
+Leave the tab open without activity for 20-30 minutes.
+
+Refresh the page or try any action.
+
+Expected Result:
+
+Automatic logout should occur.
+
+The site should redirect to the login page.
+
+Actual Result:
+
+Status: In Progress
+
+TC_49
+
+Summary: Verify correct error handling for incorrect URLs.
+
+Preconditions: User is on any page.
+
+Steps:
+
+Go to any page.
+
+Enter an invalid URL, e.g., https://www.demoblaze.com/unknownpage123
+
+Expected Result:
+
+A "404 Page Not Found" message should appear.
+
+No technical server or database information should be visible.
+
+Actual Result:
+
+Status: In Progress
+
+TC_50
+
+Summary: Verify site performance with a large number of products in the cart.
+
+Preconditions: User is logged in or as a guest (if allowed).
+
+Steps:
+
+Go to the website.
+
+Add 20-30 products from different categories to the cart.
+
+Go to the Cart.
+
+Click Place Order.
+
+Expected Result:
+
+The cart should display all added products.
+
+The site should not freeze or load slowly.
+
+The total price should be calculated correctly.
+
+The order should be placed without errors.
+
+Actual Result:
+
+Status: In Progress
+
+TC_51
+
+Summary: Verify site stability under high user activity.
+
+Preconditions: User is logged in.
+
+Steps:
+
+Go to the website.
+
+Log in.
+
+Refresh the Cart page continuously (15-20 times) within 1 minute.
+
+Check if products remain in the cart after each refresh.
+
+Verify if there are any errors like "500 Internal Server Error" or "Session Timeout".
+
+Expected Result:
+
+Products should remain in the cart after each refresh.
+
+The site should work stably without freezing.
+
+No error messages should appear.
+
+Actual Result:
+
+Status: In Progress
+
+
