@@ -1,112 +1,87 @@
-Demoblaze Security & Functional Testing Project
+# Demoblaze Security & Functional Testing Project
 
-Preview
+## Preview
 
-I created this project as a demonstration of my skills in software testing. I want to emphasize that my main goal is not to criticize the developers or degrade the quality of the product, but to showcase my grip, professionalism, and potential as a tester. I understand that some checks may seem absurd or unlikely in real life, but in testing, it is important not only to verify functionality but also to look for vulnerabilities where they are not expected.
+I created this project as a demonstration of my skills in software testing. I want to emphasize that my main goal is **not to criticize the developers or degrade the quality of the product**, but to showcase my **grip, professionalism, and potential** as a tester. I understand that some checks may seem absurd or unlikely in real life, but in testing, **it is important not only to verify functionality but also to look for vulnerabilities where they are not expected**.
 
-Website Overview
+All **test cases with bug reports and the checklist** are documented in **GitHub Issues**.
 
-Demoblaze is an e-commerce platform for online sales of electronics (smartphones, laptops, monitors). The main functionality of the site includes:
+---
 
-User registration and authorization
+## Website Overview
 
-Product catalog
+**Demoblaze** is an e-commerce platform for online sales of electronics (smartphones, laptops, monitors). The main functionality of the site includes:
+- User registration and authorization
+- Product catalog
+- Adding products to the cart
+- Placing orders
+- Contact form
 
-Adding products to the cart
+---
 
-Placing orders
+## Test Environment
 
-Contact form
+| Device         | OS        | Browser       |
+|---------------|-----------|---------------|
+| iPhone 11     | iOS 17    | Safari       |
+| Asus VivoBook | Windows 10 | Google Chrome, Opera |
+| iPad          | iOS 16    | Safari       |
 
-Test Environment
+---
 
-Device
+## Testing Methods
 
-OS
+- **Functional Testing** – Checking core functionality
+- **Security Testing** – SQL Injection, XSS Injection, Unauthorized Access
+- **Smoke Testing** – Basic functionality check
+- **Boundary Testing** – Testing with minimum and maximum values
+- **Integration Testing** – Testing interactions between components
+- **UI/UX Testing** – Design, usability, and responsiveness evaluation
 
-Browser
+---
 
-iPhone 11
+## Test Report
 
-iOS 17
+### Overall Statistics
+- **Total Test Cases:** 56
+- **Bugs Found:** 22
+- **Critical Bugs:** 7
+- **Major Bugs:** 10
+- **Minor Bugs:** 5
+- **Passed Test Cases:** 34
 
-Safari
+### Key Bugs Found:
+- SQL Injection on Sign-Up, Login, and Contact Forms
+- Unauthorized Purchase
+- Missing session timeout after 20 minutes
+- Purchase with an empty cart
+- No character validation in forms
+- Negative values in payment fields
 
-Asus VivoBook
+---
 
-Windows 10
+## Tools Used
 
-Google Chrome, Opera
+- GitHub (Issue Tracker)
+- OBS Studio (Video Recording)
+- Notion (Test Case Documentation)
+- Postman (API Testing)
 
-iPad
+---
 
-iOS 16
+## Conclusion
 
-Safari
+This project demonstrated that even on a demo version of the site, **critical vulnerabilities** can be found. However, the primary goal was not to discredit the platform but to show what I can achieve as a **Junior QA Engineer**. I am confident that with every project, I will improve and grow in the field of testing alongside a team of like-minded people.
 
-Testing Methods
+---
 
-Functional Testing – Checking core functionality
+## Author
+**Bondar Volodymyr**  
+#VovaQA 
 
-Security Testing – SQL Injection, XSS Injection, Unauthorized Access
+---
 
-Smoke Testing – Basic functionality check
+## Project Status
+**In Progress 🔥**
 
-Boundary Testing – Testing with minimum and maximum values
-
-Integration Testing – Testing interactions between components
-
-UI/UX Testing – Design, usability, and responsiveness evaluation
-
-Test Report
-
-Overall Statistics
-
-Total Test Cases: 56
-
-Bugs Found: 22
-
-Critical Bugs: 7
-
-Major Bugs: 10
-
-Minor Bugs: 5
-
-Passed Test Cases: 34
-
-Key Bugs Found:
-
-SQL Injection on Sign-Up, Login, and Contact Forms
-
-Unauthorized Purchase
-
-Missing session timeout after 20 minutes
-
-Purchase with an empty cart
-
-No character validation in forms
-
-Negative values in payment fields
-
-Tools Used
-
-GitHub (Issue Tracker)
-
-OBS Studio (Video Recording)
-
-Notion (Test Case Documentation)
-
-Postman (API Testing)
-
-Conclusion
-
-This project demonstrated that even on a demo version of the site, critical vulnerabilities can be found. However, the primary goal was not to discredit the platform but to show what I can achieve as a Junior QA Engineer. I am confident that with every project, I will improve and grow in the field of testing alongside a team of like-minded people.
-
-Author
-
-Bondar Volodymyr#VovaSecurityHacker 😏🔥
-
-Project Status
-
-In Progress 🔥
 
