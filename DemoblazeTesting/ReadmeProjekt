@@ -21,11 +21,11 @@ All **test cases with bug reports and the checklist** are documented in **GitHub
 
 ## Test Environment
 
-| Device         | OS        | Browser       |
-|---------------|-----------|---------------|
-| iPhone 11     | iOS 17    | Safari       |
-| Asus VivoBook | Windows 10 | Google Chrome, Opera |
-| iPad          | iOS 16    | Safari       |
+| Device           | OS        | Browser               |
+|------------------|-----------|-----------------------|
+| iPhone 13        | iOS 17    | Safari                |
+| Asus SonicMaster | Windows 10 | Google Chrome, Opera |
+| iPad             | iOS 16    | Safari                |
 
 ---
 
