@@ -26,7 +26,7 @@ I am looking for an opportunity to gain practical experience in QA and am open t
 
 📫 Feel free to contact me!
 📞 Телефон 0157 352 454 57
-📧 Email volodymyrbondar935@gmail.com und karlpaino881@gmail.com
+📧 Email volodymyrbondar935@gmail.com and karlpaino881@gmail.com
 🔗 LinkedIn
 
 Volodymyr Bondar – QA Manual Tester
