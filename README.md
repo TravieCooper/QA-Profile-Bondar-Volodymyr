@@ -28,8 +28,11 @@ Testing Expertise: Manual testing, test case creation, bug reporting, regression
 I am looking for an opportunity to gain practical experience in QA and am open to part-time or freelance work.
 
 📫 Feel free to contact me!
+
 📞 Телефон 0157 352 454 57
+
 📧 Email volodymyrbondar935@gmail.com and karlpaino881@gmail.com
+
 🔗 LinkedIn
 
 Volodymyr Bondar – QA Manual Tester
@@ -62,8 +65,11 @@ Test-Erfahrung: Manuelles Testen, Testfall-Erstellung, Fehlerberichte, Regressio
 Ich bin auf der Suche nach einer Möglichkeit, praktische Erfahrung im Bereich QA zu sammeln, und bin offen für Teilzeit- oder freiberufliche Tätigkeiten.
 
 📫 Kontaktieren Sie mich gerne!
+
 📞 Телефон  0157 352 454 57
+
 📧 Email volodymyrbondar935@gmail.com und karlpaino881@gmail.com
+
 🔗 LinkedIn
 
 ![image](https://github.com/user-attachments/assets/30718428-77da-462f-9087-5e5e80313dbb)
