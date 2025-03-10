@@ -1,0 +1,39 @@
+📌 SQL Injection
+
+1️⃣ Insert OR '1'='1' into all login/password fields → Check if authentication bypass is possible.
+2️⃣ Enter DROP TABLE users; in the registration form → Verify database security measures.
+3️⃣ '; UPDATE accounts SET balance=1000000 WHERE username='test'-- → Check if data modification is possible via SQL injection.
+
+📌 XSS Injection
+
+4️⃣ Insert alert('Hacked') in comments/chat → Verify XSS protection (escaping mechanisms).
+5️⃣ Insert <img src=x onerror=alert('XSS')> in name fields → Check if JavaScript executes.
+6️⃣ Upload a .svg file with embedded JavaScript → Check if the site parses SVG files unsafely.
+
+📌 Security
+
+7️⃣ Open devtools → Look for exposed API keys in JavaScript files.
+8️⃣ Attempt password recovery with an unregistered email → Verify validation.
+9️⃣ Log in as one user → Change token in localStorage → Attempt to switch accounts.
+🔟 Log in on one tab → Log out on another → Check if session is invalidated correctly.
+
+📌 Performance (Stress Testing)
+
+1️⃣1️⃣ Submit 1 million records via the registration form (script needed).
+1️⃣2️⃣ Mass spam requests via API (JMeter) → Check rate-limiting mechanisms.
+1️⃣3️⃣ Insert 5000 spaces into an input field → Verify trimming.
+1️⃣4️⃣ Upload the largest possible file (10+ GB) → Check file size restrictions.
+
+📌 UI / CSS Hacking
+
+1️⃣5️⃣ Set width to 9999999px via devtools → Observe site behavior.
+1️⃣6️⃣ Invert colors for accessibility → Check readability.
+1️⃣7️⃣ Enter an extremely long name (1000 characters) → Observe layout behavior.
+
+📌 Exploits (Extreme Tests 😈)
+
+1️⃣8️⃣ Enter ' OR sleep(10)-- in password → Check for potential DoS vulnerability.
+1️⃣9️⃣ Use @all in chat (if available) → Verify mass tagging.
+2️⃣0️⃣ Attempt to access /admin by changing role in localStorage → Check access control.
+
+
