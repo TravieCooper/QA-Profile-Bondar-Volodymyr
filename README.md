@@ -1,35 +1,47 @@
-Volodymyr Bondar – QA Manual Tester
+Volodymyr Bondar – QA Manual Tester | Web & Mobile Testing
 
 About Me
 
-Hello! My name is Volodymyr Bondar, and I am an aspiring QA Manual Tester based in Münster, Germany.
+I am a dedicated QA Manual Tester with strong analytical thinking and keen attention to detail. In January 2025, I successfully completed my training at Hillel IT School with the highest grade, “Excellent” (certificate attached). During this course, I gained extensive theoretical and practical knowledge in software, web, and mobile testing.
 
-In January 2025, I successfully completed my training at Hillel IT School, one of the best IT schools in Ukraine, with the highest grade, "Excellent" (certificate attached). During the course, I gained extensive theoretical and practical knowledge in software, web, and mobile application testing.
+To apply my skills, I created a testing project for the website demoblaze.com, which includes a detailed checklist, test cases, and bug reports, all documented as GitHub Issues.
 
-As part of my portfolio, I created a testing project for the website demoblaze.com. This includes a detailed checklist, test cases, and bug reports, which I documented as GitHub Issues.
+I am also highly interested in test automation and motivated to further develop my skills in this area.
 
-Why Me?
-
-With my strong analytical skills and attention to detail, I can effectively identify and document software defects. I work in a structured and solution-oriented manner and enjoy collaborating in a team. Additionally, I have a growing interest in test automation and am eager to expand my skills in this area.
+⸻
 
 Professional Experience & Transferable Skills
-Before moving to Germany, I worked in two different but valuable fields:
 
-Ammonia Synthesis Operator
-A significant part of my work involved monitoring and adjusting various parameters on a computer to ensure the quality of the final product. I had to simultaneously track multiple factors that influenced each other. This experience honed my attention to detail, quick decision-making, and quality awareness – all essential qualities for a QA tester.
+Quality Control & Process Monitoring
 
-Sales Manager & Department Head
-This role helped me become more stress-resistant, communicative, and team-oriented. One of the most important lessons I learned is that with the right mindset and persistence, anything is possible. Additionally, I developed analytical skills and strategic planning abilities.
+As an Operator in Ammonia Synthesis, I was responsible for monitoring and adjusting key parameters to ensure consistent product quality. This experience sharpened my data analysis, quick decision-making, and defect detection abilities—essential qualities for a QA tester.
+
+Data Analysis & Decision-Making
+
+As a Sales Manager & Department Head, I developed planning, analytical, and organizational skills. Managing customer relations and business operations strengthened my communication skills and teamwork abilities.
+
+⸻
 
 Languages & Technical Skills
-Languages: German (A2, improving), English (confident)
-Tools & Technologies: GitHub, Jira, TestCaseLab, Postman, MS Office
-Testing Expertise: Manual testing, test case creation, bug reporting, regression testing, performance testing
-I am looking for an opportunity to gain practical experience in QA and am open to part-time or freelance work.
 
- Feel free to contact me!
+Languages:
+	•	German: A2 (improving)
+	•	English: Fluent
 
-📞 Телефон 0157 352 454 57
+Testing Experience:
+	•	Manual Testing (Web & Mobile)
+	•	Test Case Creation & Bug Reporting
+	•	Regression Testing, Performance Testing
+
+Tools & Technologies:
+	•	Test Management: Jira, TestCaseLab
+	•	API Testing: Postman
+	•	Version Control: GitHub
+	•	Office Software: MS Office
+
+  📫 I look forward to your contact!
+
+📞 my mobile numer: 0157 352 454 57
 
 📧 Email volodymyrbondar935@gmail.com and karlpaino881@gmail.com
 
