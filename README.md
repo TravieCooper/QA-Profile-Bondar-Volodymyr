@@ -27,7 +27,7 @@ Tools & Technologies: GitHub, Jira, TestCaseLab, Postman, MS Office
 Testing Expertise: Manual testing, test case creation, bug reporting, regression testing, performance testing
 I am looking for an opportunity to gain practical experience in QA and am open to part-time or freelance work.
 
-📫 Feel free to contact me!
+ Feel free to contact me!
 
 📞 Телефон 0157 352 454 57
 
@@ -35,38 +35,47 @@ I am looking for an opportunity to gain practical experience in QA and am open t
 
 🔗 LinkedIn
 
-Volodymyr Bondar – QA Manual Tester
+Volodymyr Bondar – QA Manual Tester | Web & Mobile Testing
 
 Über mich
 
-Hallo! Mein Name ist Volodymyr Bondar, und ich bin ein angehender QA-Manual-Tester mit Wohnsitz in Münster, Deutschland.
+Ich bin ein engagierter QA-Manual-Tester mit starkem analytischen Denken und hoher Detailgenauigkeit. Im Januar 2025 habe ich meine Ausbildung an der Hillel IT School mit der Bestnote “Excellent” abgeschlossen (Zertifikat beigefügt). Während des Kurses habe ich umfassende theoretische und praktische Kenntnisse im Software-, Web- und Mobile-Testing erworben.
 
-Im Januar 2025 habe ich meine Ausbildung an der Hillel IT School, einer der besten IT-Schulen in der Ukraine, mit der Bestnote „Excellent“ abgeschlossen (Zertifikat beigefügt). Während des Kurses habe ich umfangreiche theoretische und praktische Kenntnisse im Testen von Software, Web- und mobilen Anwendungen erworben.
+Zur praktischen Anwendung habe ich ein Testprojekt für die Website demoblaze.com erstellt, einschließlich einer detaillierten Checkliste, Testfälle und Bug-Reports, die als GitHub Issues dokumentiert sind.
 
-In meinem Portfolio habe ich ein Testprojekt für die Website demoblaze.com erstellt. Dazu gehören ein detaillierter Checkliste, Testfälle und Bug-Reports, die ich als GitHub Issues dokumentiert habe.
-
-Warum ich?
-
-Dank meiner ausgeprägten analytischen Fähigkeiten und meiner hohen Detailgenauigkeit kann ich Softwarefehler effizient identifizieren und dokumentieren. Ich arbeite strukturiert, lösungsorientiert und gerne im Team. Außerdem interessiere ich mich für Testautomatisierung und bin hoch motiviert, meine Fähigkeiten in diesem Bereich weiterzuentwickeln.
+Ich interessiere mich auch für Testautomatisierung und bin hoch motiviert, meine Kenntnisse in diesem Bereich weiterzuentwickeln.
 
 Berufliche Erfahrung & Übertragbare Fähigkeiten
-Bevor ich nach Deutschland gezogen bin, hatte ich zwei sehr unterschiedliche, aber wertvolle berufliche Stationen:
 
-Operator in der Ammoniaksynthese
-Ein bedeutender Teil meiner Arbeit erfolgte am Computer, wo ich ständig verschiedene Parameter überwachen und anpassen musste, um die Qualität des Endprodukts zu gewährleisten. Gleichzeitig musste ich mehrere Faktoren im Blick behalten, die sich gegenseitig beeinflussten. Diese Erfahrung hat meine Aufmerksamkeit für Details, schnelle Entscheidungsfindung und mein Qualitätsbewusstsein geschärft – Qualitäten, die für einen QA-Tester unerlässlich sind.
+Qualitätskontrolle & Prozessüberwachung
 
-Vertriebsmanager & Abteilungsleiter
-Diese Tätigkeit hat mich stressresistenter, kommunikativer und teamfähiger gemacht. Eine der wichtigsten Lektionen, die ich dabei gelernt habe, ist, dass mit der richtigen Einstellung und Ausdauer alles möglich ist. Zudem habe ich meine analytischen Fähigkeiten und mein Planungsvermögen weiterentwickelt.
+Als Operator in der Ammoniaksynthese war ich für die Überwachung und Anpassung wichtiger Parameter verantwortlich, um eine konstante Qualität des Endprodukts sicherzustellen. Diese Erfahrung hat meine Fähigkeit zur Datenanalyse, schnellen Entscheidungsfindung und Fehlererkennung geschärft – wichtige Eigenschaften für einen QA-Tester.
+
+Datenanalyse & Entscheidungsfindung
+
+Als Vertriebsmanager & Abteilungsleiter habe ich planerische, analytische und organisatorische Fähigkeiten entwickelt. Der Umgang mit Kunden und Geschäftspartnern hat meine Kommunikationsstärke und Teamfähigkeit gestärkt.
 
 Sprachen & Technische Fähigkeiten
-Sprachen: Deutsch (A2, in Verbesserung), Englisch (sicher)
-Tools & Technologien: GitHub, Jira, TestCaseLab, Postman, MS Office
-Test-Erfahrung: Manuelles Testen, Testfall-Erstellung, Fehlerberichte, Regressionstests, Performance-Tests
-Ich bin auf der Suche nach einer Möglichkeit, praktische Erfahrung im Bereich QA zu sammeln, und bin offen für Teilzeit- oder freiberufliche Tätigkeiten.
 
-📫 Kontaktieren Sie mich gerne!
+Sprachen:
+	•	Deutsch: A2 (in Verbesserung)
+	•	Englisch: Fließend
 
-📞 Телефон  0157 352 454 57
+Testing-Erfahrung:
+	•	Manuelles Testen (Web & Mobile)
+	•	Testfall-Erstellung & Fehlerberichte
+	•	Regressionstests, Performance-Tests
+
+Tools & Technologien:
+	•	Test-Management: Jira, TestCaseLab
+	•	API-Testing: Postman
+	•	Versionskontrolle: GitHub
+	•	Office-Software: MS Office
+
+📫 Ich freue mich auf Ihre Kontaktaufnahme!
+
+
+📞 Handynummer:  0157 352 454 57
 
 📧 Email volodymyrbondar935@gmail.com und karlpaino881@gmail.com
 
