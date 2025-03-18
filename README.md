@@ -39,13 +39,8 @@ Tools & Technologies:
 	•	Version Control: GitHub
 	•	Office Software: MS Office
 
-  📫 I look forward to your contact!
 
-📞 my mobile numer: 0157 352 454 57
 
-📧 Email volodymyrbondar935@gmail.com and karlpaino881@gmail.com
-
-🔗 LinkedIn
 
 Volodymyr Bondar – QA Manual Tester | Web & Mobile Testing
 
@@ -83,15 +78,6 @@ Tools & Technologien:
 	•	API-Testing: Postman
 	•	Versionskontrolle: GitHub
 	•	Office-Software: MS Office
-
-📫 Ich freue mich auf Ihre Kontaktaufnahme!
-
-
-📞 Handynummer:  0157 352 454 57
-
-📧 Email volodymyrbondar935@gmail.com und karlpaino881@gmail.com
-
-🔗 LinkedIn
 
 ![image](https://github.com/user-attachments/assets/30718428-77da-462f-9087-5e5e80313dbb)
 
