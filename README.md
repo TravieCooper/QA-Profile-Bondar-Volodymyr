@@ -25,7 +25,7 @@ As a Sales Manager & Department Head, I developed planning, analytical, and orga
 Languages & Technical Skills
 
 Languages:
-	•	German: A2 (improving)
+	•	German: A2 (B1 I learn now)
 	•	English: Fluent
 
 Testing Experience:
@@ -65,7 +65,7 @@ Als Vertriebsmanager & Abteilungsleiter habe ich planerische, analytische und or
 Sprachen & Technische Fähigkeiten
 
 Sprachen:
-	•	Deutsch: A2 (in Verbesserung)
+	•	Deutsch: A2 (B1 lerne ich jetzt)
 	•	Englisch: Fließend
 
 Testing-Erfahrung:
