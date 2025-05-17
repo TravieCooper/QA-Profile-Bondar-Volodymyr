@@ -47,6 +47,8 @@ Sales Manager & Team Lead – Commercial Sector
 	•	Other: Git basics, Agile understanding, Bug Reporting
 
 ⸻
+## 🛠️ Projects
+- **Demoblaze Testing**: Manual testing project with detailed test cases and bug reports.
 
 📝 Available for:
 
@@ -95,6 +97,8 @@ Sprachen & Technische Fähigkeiten
 	•	🔂 Versionskontrolle: GitHub
 	•	🖥️ Office-Software: MS Office
 
+## 🛠️ Projects
+- **Demoblaze Testing**: Manual testing project with detailed test cases and bug reports.
 
 ![image](https://github.com/user-attachments/assets/30718428-77da-462f-9087-5e5e80313dbb)
 
