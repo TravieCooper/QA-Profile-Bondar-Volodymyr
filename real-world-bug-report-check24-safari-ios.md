@@ -61,9 +61,13 @@ Low (non-blocking but user experience is negatively affected)
 
 Supporting Material
 🎥 Video Evidence (iOS 18.3.1, Safari):
+
 https://drive.google.com/file/d/1acxfM-lFTXOidNJUlBhjnOVPTpDX0tL1/view?usp=drivesdk
+
 https://drive.google.com/file/d/1wAueyMsWTd_rnKGiLq3yG73D9zTcAD4X/view?usp=drivesdk
+
 Android:
+
 https://drive.google.com/file/d/15PCFpFQu077IQskat8tCo6dvLJFCL9Zu/view?usp=drivesdk
 
 ✅ Recommendation
