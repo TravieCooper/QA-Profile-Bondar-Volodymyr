@@ -54,42 +54,47 @@ Sales Manager & Team Lead – Commercial Sector
 ✅ Ausbildung in QA / IT Bereich
 ✅ Entry-Level Manual Testing Positions
 
-Volodymyr Bondar – QA Manual Tester | Web & Mobile Testing
 
-Über mich
 
-Ich bin ein engagierter QA-Manual-Tester mit starkem analytischen Denken und hoher Detailgenauigkeit. Im Januar 2025 habe ich meine Ausbildung an der Hillel IT School mit der Bestnote “Excellent” abgeschlossen (Zertifikat beigefügt). Während des Kurses habe ich umfassende theoretische und praktische Kenntnisse im Software-, Web- und Mobile-Testing erworben.
+📛 Volodymyr Bondar – QA Manual Tester | Web- & Mobile-Testing
 
-Zur praktischen Anwendung habe ich ein Testprojekt für die Website demoblaze.com erstellt, einschließlich einer detaillierten Checkliste, Testfälle und Bug-Reports, die als GitHub Issues dokumentiert sind.
+🧑‍💻 Über mich
 
-Ich interessiere mich auch für Testautomatisierung und bin hoch motiviert, meine Kenntnisse in diesem Bereich weiterzuentwickeln.
+Ich bin ein engagierter QA-Manual-Tester mit starkem analytischem Denken und hoher Detailgenauigkeit. Im Januar 2025 habe ich meine Ausbildung an der Hillel IT School mit der Bestnote „Excellent“ abgeschlossen (📎 Zertifikat beigefügt). Während dieses Kurses habe ich umfangreiche theoretische und praktische Kenntnisse im Bereich Software-, Web- und Mobile-Testing erworben.
+
+Zur praktischen Anwendung habe ich ein Testprojekt für die Website demoblaze.com erstellt, einschließlich einer detaillierten ✅ Checkliste, 🧪 Testfälle und 🐞 Bug-Reports – alles dokumentiert als GitHub-Issues.
+
+Ich interessiere mich auch sehr für die Testautomatisierung 🤖 und bin hoch motiviert, meine Kenntnisse in diesem Bereich weiterzuentwickeln.
+
+⸻
 
 Berufliche Erfahrung & Übertragbare Fähigkeiten
 
-Qualitätskontrolle & Prozessüberwachung
+🧩 Qualitätskontrolle & Prozessüberwachung
+Als Operator in der Ammoniaksynthese war ich für die Überwachung und Anpassung wichtiger Parameter verantwortlich, um eine konstante Produktqualität sicherzustellen. Diese Erfahrung hat meine Fähigkeit zur 📊 Datenanalyse, schnellen Entscheidungsfindung und 🔍 Fehlererkennung geschärft – wichtige Eigenschaften für einen QA-Tester.
 
-Als Operator in der Ammoniaksynthese war ich für die Überwachung und Anpassung wichtiger Parameter verantwortlich, um eine konstante Qualität des Endprodukts sicherzustellen. Diese Erfahrung hat meine Fähigkeit zur Datenanalyse, schnellen Entscheidungsfindung und Fehlererkennung geschärft – wichtige Eigenschaften für einen QA-Tester.
+📈 Datenanalyse & Entscheidungsfindung
+Als Vertriebsmanager & Abteilungsleiter habe ich planerische, analytische und organisatorische Fähigkeiten entwickelt. Der Umgang mit Kunden und Geschäftspartnern hat meine 💬 Kommunikationsstärke und 🤝 Teamfähigkeit gestärkt.
 
-Datenanalyse & Entscheidungsfindung
-
-Als Vertriebsmanager & Abteilungsleiter habe ich planerische, analytische und organisatorische Fähigkeiten entwickelt. Der Umgang mit Kunden und Geschäftspartnern hat meine Kommunikationsstärke und Teamfähigkeit gestärkt.
+⸻
 
 Sprachen & Technische Fähigkeiten
 
-Sprachen:
-	•	Deutsch: A2 (B1 lerne ich jetzt)
-	•	Englisch: Fließend
+🗣️ Sprachen:
+	•	🇩🇪 Deutsch: A2 (B1 lerne ich jetzt)
+	•	🇬🇧 Englisch: Fließend
 
-Testing-Erfahrung:
-	•	Manuelles Testen (Web & Mobile)
-	•	Testfall-Erstellung & Fehlerberichte
-	•	Regressionstests, Performance-Tests
+🔧 Testing-Erfahrung:
+	•	🧪 Manuelles Testing (Web & Mobile)
+	•	✅ Testfall-Erstellung & Fehlerberichte
+	•	🔁 Regressionstests, ⚡ Performancetests
 
-Tools & Technologien:
-	•	Test-Management: Jira, TestCaseLab
-	•	API-Testing: Postman
-	•	Versionskontrolle: GitHub
-	•	Office-Software: MS Office
+💻 Tools & Technologien:
+	•	📋 Test-Management: Jira, TestCaseLab
+	•	🔌 API-Testing: Postman
+	•	🔂 Versionskontrolle: GitHub
+	•	🖥️ Office-Software: MS Office
+
 
 ![image](https://github.com/user-attachments/assets/30718428-77da-462f-9087-5e5e80313dbb)
 
