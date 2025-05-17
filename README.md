@@ -1,46 +1,58 @@
-Volodymyr Bondar – QA Manual Tester | Web & Mobile Testing
-
-About Me
-
-I am a dedicated QA Manual Tester with strong analytical thinking and keen attention to detail. In January 2025, I successfully completed my training at Hillel IT School with the highest grade, “Excellent” (certificate attached). During this course, I gained extensive theoretical and practical knowledge in software, web, and mobile testing.
-
-To apply my skills, I created a testing project for the website demoblaze.com, which includes a detailed checklist, test cases, and bug reports, all documented as GitHub Issues.
-
-I am also highly interested in test automation and motivated to further develop my skills in this area.
+📛 Volodymyr Bondar
+QA Manual Tester | Web & Mobile | Seeking Praktikum / Ausbildung
 
 ⸻
 
-Professional Experience & Transferable Skills
+🧑‍💻 About Me
 
-Quality Control & Process Monitoring
+Motivated and detail-oriented QA Manual Tester with hands-on experience in web and mobile application testing. In January 2025, I completed the QA course at Hillel IT School with top grades (“Excellent”). During my training, I created real-world test documentation for demoblaze.com, including test cases, bug reports, and checklists — all available on GitHub.
 
-As an Operator in Ammonia Synthesis, I was responsible for monitoring and adjusting key parameters to ensure consistent product quality. This experience sharpened my data analysis, quick decision-making, and defect detection abilities—essential qualities for a QA tester.
-
-Data Analysis & Decision-Making
-
-As a Sales Manager & Department Head, I developed planning, analytical, and organizational skills. Managing customer relations and business operations strengthened my communication skills and teamwork abilities.
+I am currently improving my German (B1 level) and exploring test automation as my next step in the QA journey.
 
 ⸻
 
-Languages & Technical Skills
+🧪 Practical QA Projects
 
-Languages:
-	•	German: A2 (B1 I learn now)
-	•	English: Fluent
+Demoblaze Web Testing Project (GitHub)
+	•	Created a complete test plan including checklist, test cases, and bug reports
+	•	Filed bug reports directly as GitHub Issues
+	•	Simulated real-world QA workflow using Jira and Postman
 
-Testing Experience:
-	•	Manual Testing (Web & Mobile)
-	•	Test Case Creation & Bug Reporting
-	•	Regression Testing, Performance Testing
+CHECK24 Real Bug Report (Safari/iOS)
+	•	Discovered and reported a date picker bug during real application process
+	•	Provided full bug report with reproduction steps and screenshots
+	•	Received acknowledgement and thanks from the company
 
-Tools & Technologies:
-	•	Test Management: Jira, TestCaseLab
-	•	API Testing: Postman
-	•	Version Control: GitHub
-	•	Office Software: MS Office
+📎 Full reports available at:
+GitHub Portfolio – Volodymyr Bondar
 
+⸻
 
+💼 Previous Experience
 
+Process Operator – Ammonia Synthesis (Chemical Plant)
+	•	Monitored live parameters, adjusted workflows to maintain product quality
+	•	Gained analytical and quick decision-making skills under pressure
+
+Sales Manager & Team Lead – Commercial Sector
+	•	Led teams, managed clients, created reports and business strategies
+	•	Developed planning, communication, and organizational skills
+
+⸻
+
+🌐 Languages & Tools
+	•	Languages: English (Fluent) | German (A2-B1 in progress)
+	•	Testing: Manual Testing, Regression, Performance Testing
+	•	Tools: Jira, TestCaseLab, Postman, GitHub, MS Office
+	•	Other: Git basics, Agile understanding, Bug Reporting
+
+⸻
+
+📝 Available for:
+
+✅ Praktikum / Internship
+✅ Ausbildung in QA / IT Bereich
+✅ Entry-Level Manual Testing Positions
 
 Volodymyr Bondar – QA Manual Tester | Web & Mobile Testing
 
