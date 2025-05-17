@@ -49,6 +49,8 @@ Sales Manager & Team Lead – Commercial Sector
 ⸻
 ## 🛠️ Projects
 - **Demoblaze Testing**: Manual testing project with detailed test cases and bug reports.
+- **HackTheBoxTestProjekt**: A small-scale test project simulating system security and functionality checks.
+### 🐞 Real-World Bug Report: CHECK24 (Safari iOS Bug).
 
 📝 Available for:
 
@@ -98,7 +100,10 @@ Sprachen & Technische Fähigkeiten
 	•	🖥️ Office-Software: MS Office
 
 ## 🛠️ Projects
-- **Demoblaze Testing**: Manual testing project with detailed test cases and bug reports.
+- **Demoblaze Testing**: Manual testing project mit test cases und bug reports.
+- **HackTheBoxTestProjekt**: Kleines Testprojekt zur Simulation von System­sicherheits- und Funktionsprüfungen.
+### 🐞 Real-World Bug Report: CHECK24 (Safari iOS Bug).
+
 
 ![image](https://github.com/user-attachments/assets/30718428-77da-462f-9087-5e5e80313dbb)
 
