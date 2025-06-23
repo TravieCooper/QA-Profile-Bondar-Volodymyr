@@ -14,14 +14,14 @@ I am currently improving my German (B1 level) and exploring test automation as m
 🧪 Practical QA Projects
 
 Demoblaze Web Testing Project (GitHub)
-	•	Created a complete test plan including checklist, test cases, and bug reports
-	•	Filed bug reports directly as GitHub Issues
-	•	Simulated real-world QA workflow using Jira and Postman
+	Created a complete test plan including checklist, test cases, and bug reports
+	Filed bug reports directly as GitHub Issues
+	Simulated real-world QA workflow using Jira and Postman
 
 CHECK24 Real Bug Report (Safari/iOS)
-	•	Discovered and reported a date picker bug during real application process
-	•	Provided full bug report with reproduction steps and screenshots
-	•	Received acknowledgement and thanks from the company
+	Discovered and reported a date picker bug during real application process
+	Provided full bug report with reproduction steps and screenshots
+	Received acknowledgement and thanks from the company
 
 📎 Full reports available at:
 GitHub Portfolio – Volodymyr Bondar
@@ -31,20 +31,20 @@ GitHub Portfolio – Volodymyr Bondar
 💼 Previous Experience
 
 Process Operator – Ammonia Synthesis (Chemical Plant)
-	•	Monitored live parameters, adjusted workflows to maintain product quality
-	•	Gained analytical and quick decision-making skills under pressure
+		Monitored live parameters, adjusted workflows to maintain product quality
+		Gained analytical and quick decision-making skills under pressure
 
 Sales Manager & Team Lead – Commercial Sector
-	•	Led teams, managed clients, created reports and business strategies
-	•	Developed planning, communication, and organizational skills
+		Led teams, managed clients, created reports and business strategies
+		Developed planning, communication, and organizational skills
 
 ⸻
 
 🌐 Languages & Tools
-	•	Languages: English (Fluent) | German (A2-B1 in progress)
-	•	Testing: Manual Testing, Regression, Performance Testing
-	•	Tools: Jira, TestCaseLab, Postman, GitHub, MS Office
-	•	Other: Git basics, Agile understanding, Bug Reporting
+		Languages: English (Fluent) | German (A2-B1 in progress)
+		Testing: Manual Testing, Regression, Performance Testing
+		Tools: Jira, TestCaseLab, Postman, GitHub, MS Office
+		Other: Git basics, Agile understanding, Bug Reporting
 
 ⸻
 ## 🛠️ Projects
@@ -85,19 +85,19 @@ Als Vertriebsmanager & Abteilungsleiter habe ich planerische, analytische und or
 Sprachen & Technische Fähigkeiten
 
 🗣️ Sprachen:
-	•	🇩🇪 Deutsch: A2 (B1 lerne ich jetzt)
-	•	🇬🇧 Englisch: Fließend
+		🇩🇪 Deutsch: A2 (B1 lerne ich jetzt)
+		🇬🇧 Englisch: Fließend
 
 🔧 Testing-Erfahrung:
-	•	🧪 Manuelles Testing (Web & Mobile)
-	•	✅ Testfall-Erstellung & Fehlerberichte
-	•	🔁 Regressionstests, ⚡ Performancetests
+		🧪 Manuelles Testing (Web & Mobile)
+		✅ Testfall-Erstellung & Fehlerberichte
+		🔁 Regressionstests, ⚡ Performancetests
 
 💻 Tools & Technologien:
-	•	📋 Test-Management: Jira, TestCaseLab
-	•	🔌 API-Testing: Postman
-	•	🔂 Versionskontrolle: GitHub
-	•	🖥️ Office-Software: MS Office
+		📋 Test-Management: Jira, TestCaseLab
+		🔌 API-Testing: Postman
+		🔂 Versionskontrolle: GitHub
+		🖥️ Office-Software: MS Office
 
 ## 🛠️ Projects
 - **Demoblaze Testing**: Manual testing project mit test cases und bug reports.
